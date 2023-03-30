@@ -1,2 +1,2 @@
 # resume
-my resume to hoston AWS for PG-DBDA course requirement
+my resume to host on AWS for PG-DBDA course requirement
